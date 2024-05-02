@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # Simulate behavior spread in a social network
 
 This script simulates the spread of behaviors within a social network, represented as a grid. Each cell in the grid can be empty, contain an unaffected agent, or contain an agent influenced by one of several behaviors. The simulation models how behaviors spread through social influence, with agents adopting behaviors based on specific probabilities. It visualizes the dynamics of behavior spread, including adoption and switching behaviors, across a defined number of steps. Parameters such as the probabilities for adopting or switching behaviors, the initial density of agents, and the number of origin points for behaviors are configurable, enabling exploration of different scenarios of social influence and behavior dynamics.
